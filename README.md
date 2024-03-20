@@ -2,7 +2,7 @@
 
 A real-time chat application built using React.js for the frontend, Node.js with Express.js for the backend, and ChatEngine for server and API.
 
-![Chat App Preview](pss1.png)
+![Chat App Preview](https://github.com/tomarmayankk/react-Chat-app/blob/main/frontend/src/assets/pss1.png)
 
 ## Features
 
